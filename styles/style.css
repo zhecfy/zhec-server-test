@@ -1,0 +1,25 @@
+html {
+    font-size: 16px;
+    font-family: Consolas, monospace;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.old-message:hover {
+    color: #66CCFF;
+    border: 1px solid black;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
